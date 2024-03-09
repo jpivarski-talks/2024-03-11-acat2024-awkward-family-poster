@@ -26,9 +26,9 @@
      showgrid="false"
      units="in"
      width="36in"
-     inkscape:zoom="0.3279659"
-     inkscape:cx="2299.0195"
-     inkscape:cy="1795.9184"
+     inkscape:zoom="0.58231933"
+     inkscape:cx="3640.6142"
+     inkscape:cy="2620.5553"
      inkscape:window-width="2554"
      inkscape:window-height="1365"
      inkscape:window-x="1920"
@@ -335,7 +335,7 @@
        y1="168.44336"
        x2="53.854809"
        y2="213.61191"
-       gradientTransform="translate(8.8239721,3.293269)" />
+       gradientTransform="translate(6.7306762,-1.4752821)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2983"
@@ -345,7 +345,7 @@
        y1="168.44336"
        x2="53.854809"
        y2="213.61191"
-       gradientTransform="translate(2.7350047,0.52263572)" />
+       gradientTransform="translate(1.0576427,-4.6313157)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2983"
@@ -355,7 +355,7 @@
        y1="168.44336"
        x2="53.854809"
        y2="213.61191"
-       gradientTransform="translate(-10.903607,4.1765392)" />
+       gradientTransform="translate(-5.6406618,3.202507)" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath44318">
@@ -713,21 +713,21 @@
        y="0"><tspan
          x="805.58789"
          y="1579.9394"
-         id="tspan299974"><tspan
+         id="tspan378089"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 4.3086643 0 0 0 0 0 0 0 0 0 0 0 0 0 4.3086033"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan299972">extending functionality through </tspan></tspan><tspan
+           id="tspan378087">extending functionality through </tspan></tspan><tspan
          x="805.58789"
          y="1698.9498"
-         id="tspan299978"><tspan
+         id="tspan378093"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 55.921638 0 0 0 0 0 0 55.9217"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan299976">interrelated Python packages </tspan></tspan><tspan
+           id="tspan378091">interrelated Python packages </tspan></tspan><tspan
          x="805.58789"
          y="1815.6164"
-         id="tspan299982"><tspan
+         id="tspan378097"><tspan
            style="fill-opacity:0"
-           id="tspan299980">asdf</tspan></tspan></text>
+           id="tspan378095">asdf</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:15.216px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';stroke-width:0.950992"
@@ -748,57 +748,57 @@
        y="0"><tspan
          x="805.58789"
          y="1531.4127"
-         id="tspan299986"><tspan
+         id="tspan378101"><tspan
            dx="0 0 0 13.408653 0 0 0 13.408653 0 0 13.408661 0 0 0 0 0 13.408661 0 0 0 0 0 13.408661 0 0 0 0 0 13.40863 0 0 0 0 0 0 0 0 0 0 13.408691 0 0 0 0 0 0 13.40863"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan299984">In the 5+ years since their inception, Uproot and </tspan></tspan><tspan
+           id="tspan378099">In the 5+ years since their inception, Uproot and </tspan></tspan><tspan
          x="805.58789"
          y="1582.4172"
-         id="tspan299990"><tspan
+         id="tspan378105"><tspan
            dx="0 0 0 0 0 0 0 0 8.3585052 0 0 0 0 0 8.35849 0 0 0 0 8.3585205 0 0 0 0 0 0 8.3585205 0 8.3584595 0 0 0 0 0 0 0 0 0 0 8.3585205 0 0 0 0 0 8.3584595"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan299988">Awkward Array have become a foundation layer for </tspan></tspan><tspan
+           id="tspan378103">Awkward Array have become a foundation layer for </tspan></tspan><tspan
          x="805.58789"
          y="1633.4217"
-         id="tspan299994"><tspan
+         id="tspan378109"><tspan
            dx="0 0 0 0 0 0 0 0 0 2.6784821 0 0 0 2.6784668 0 0 0 0 0 0 0 0 0 2.6784668 0 0 0 0 2.6784668 0 0 2.6785278 0 0 0 0 0 0 2.6785278 0 0 0 0 2.6784668"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan299992">Pythonic HEP analysis, both as direct user interfaces </tspan></tspan><tspan
+           id="tspan378107">Pythonic HEP analysis, both as direct user interfaces </tspan></tspan><tspan
          x="805.58789"
          y="1684.4262"
-         id="tspan299998"><tspan
+         id="tspan378113"><tspan
            dx="0 0 0 0 4.9579239 0 0 4.9579239 0 0 0 0 0 0 0 0 0 0 0 0 4.9579468 0 0 0 4.9579163 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4.9578857"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan299996">and as dependencies for physicist-facing frameworks. </tspan></tspan><tspan
+           id="tspan378111">and as dependencies for physicist-facing frameworks. </tspan></tspan><tspan
          x="805.58789"
          y="1735.4307"
-         id="tspan300002"><tspan
+         id="tspan378117"><tspan
            dx="0 0 0 0 0 0 0 0 0 0.11865234 0 0 0 0 0.11865234 0 0 0 0 0 0.11865234 0 0 0 0 0.11865234 0 0 0 0.11865234 0 0 0 0 0 0 0 0 0.11865234 0 0 0.11865234 0 0 0 0 0 0 0 0 0 0.11865234"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan300000">Although this means that the software is achieving its </tspan></tspan><tspan
+           id="tspan378115">Although this means that the software is achieving its </tspan></tspan><tspan
          x="805.58789"
          y="1786.4353"
-         id="tspan300006"><tspan
+         id="tspan378121"><tspan
            dx="0 0 0 0 0 0 0 0 0 4.6121368 0 0 4.6121521 0 0 0 0 4.6121521 0 0 0 0 4.6121521 0 0 0 4.6121216 0 0 0 0 4.6121216 0 0 0 4.6121216 0 0 0 0 0 0 0 0 0 4.6121216 0 0 4.6121216"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan300004">mission, it also puts the need for stability in conflict </tspan></tspan><tspan
+           id="tspan378119">mission, it also puts the need for stability in conflict </tspan></tspan><tspan
          x="805.58789"
          y="1837.4398"
-         id="tspan300010"><tspan
+         id="tspan378125"><tspan
            dx="0 0 0 0 0 17.507332 0 0 0 0 17.507324 0 0 0 0 0 0 0 0 0 0 0 0 17.507324 0 0 0 0 0 0 0 0 0 0 0 0 0 17.507324"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan300008">with new, experimental developments. Boundaries </tspan></tspan><tspan
+           id="tspan378123">with new, experimental developments. Boundaries </tspan></tspan><tspan
          x="805.58789"
          y="1888.4443"
-         id="tspan300014"><tspan
+         id="tspan378129"><tspan
            dx="0 0 0 0 0 6.9232178 0 0 6.9232178 0 0 0 0 0 6.9232178 0 0 0 0 0 0 0 6.9232178 0 0 0 6.9232178 0 0 0 0 6.9232178 0 0 0 0 6.9232178 0 0 0 0 0 6.9232178 0 0 6.9232178"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan300012">must be drawn between the code that needs to stay </tspan></tspan><tspan
+           id="tspan378127">must be drawn between the code that needs to stay </tspan></tspan><tspan
          x="805.58789"
          y="1939.4488"
-         id="tspan300018"><tspan
+         id="tspan378133"><tspan
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan300016">robust and the code that implements new ideas.
+           id="tspan378131">robust and the code that implements new ideas.
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -809,27 +809,27 @@
        y="0"><tspan
          x="805.58789"
          y="1531.4127"
-         id="tspan300022"><tspan
+         id="tspan378137"><tspan
            dx="0 0 0 4.6236343 0 0 0 4.6236343 0 0 0 0 0 0 4.6236267 0 0 0 0 4.6236572 0 0 4.6236572 0 0 0 0 0 0 0 0 0 4.6236572 0 0 0 4.6236572 0 0 0 0 0 0 0 0 0 0 0 0 4.6236572"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan300020">To the extent that is possible, new developments are </tspan></tspan><tspan
+           id="tspan378135">To the extent that is possible, new developments are </tspan></tspan><tspan
          x="805.58789"
          y="1582.4172"
-         id="tspan300030"><tspan
+         id="tspan378145"><tspan
            dx="0 0 0 0 6.126297 0 0 0 0 0 6.126297 0 0 0 0 0 0 0 6.1263123"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan300024">now being persued in </tspan><tspan
+           id="tspan378139">now being persued in </tspan><tspan
            dx="6.1263123 0 0 0 6.1262817"
            style="font-style:italic"
-           id="tspan300026">new packages</tspan><tspan
+           id="tspan378141">new packages</tspan><tspan
            dx="0 0 6.1262817 0 0 0 0 0 0 6.1263428"
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan300028">, rather than </tspan></tspan><tspan
+           id="tspan378143">, rather than </tspan></tspan><tspan
          x="805.58789"
          y="1633.4217"
-         id="tspan300034"><tspan
+         id="tspan378149"><tspan
            style="font-weight:normal;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L'"
-           id="tspan300032">extensions of the existing packages.</tspan></tspan></text>
+           id="tspan378147">extensions of the existing packages.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:33.4799px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';font-variation-settings:normal;opacity:1;vector-effect:none;fill:#8a83be;fill-opacity:1;stroke:none;stroke-width:0.191763;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
@@ -1194,8 +1194,8 @@
          x="148.20891"
          y="179.82774" />
       <rect
-         y="215.60367"
-         x="127.65576"
+         y="210.83511"
+         x="125.56244"
          height="10.423512"
          width="25.345575"
          id="rect853"
@@ -1205,11 +1205,11 @@
          id="rect855"
          width="20.312483"
          height="10.423512"
-         x="113.46106"
-         y="198.66777" />
+         x="111.7837"
+         y="193.51382" />
       <rect
-         y="168.24008"
-         x="91.333618"
+         y="167.26605"
+         x="96.596565"
          height="10.423512"
          width="39.444885"
          id="rect857"
@@ -1235,13 +1235,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="111.04366"
-         y="174.61972"
+         x="116.30661"
+         y="173.64569"
          id="text821"><tspan
            sodipodi:role="line"
            id="tspan819"
-           x="111.04366"
-           y="174.61972"
+           x="116.30661"
+           y="173.64569"
            style="stroke-width:0.264583">boost-histogram</tspan></text>
       <text
          xml:space="preserve"
@@ -1257,28 +1257,28 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="123.54082"
-         y="205.04741"
+         x="121.86346"
+         y="199.89346"
          id="text829"><tspan
            sodipodi:role="line"
-           x="123.54082"
-           y="205.04741"
+           x="121.86346"
+           y="199.89346"
            style="stroke-width:0.264583"
            id="tspan837">mplhep</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="140.18695"
-         y="221.98331"
+         x="138.09364"
+         y="217.21475"
          id="text845"><tspan
            sodipodi:role="line"
            id="tspan843"
-           x="140.18695"
-           y="221.98331"
+           x="138.09364"
+           y="217.21475"
            style="stroke-width:0.264583">histoprint</tspan></text>
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-         d="m 103.41208,158.4151 2.63161,8.28904"
+         d="m 103.41208,158.4151 2.95908,7.07067"
          id="path885"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
@@ -1286,73 +1286,73 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1260"
-         d="m 130.8953,173.88297 15.41113,7.41675"
+         d="m 136.108,172.45219 10.19843,8.84753"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1264)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.54291px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.221432"
-         x="121.88192"
-         y="164.33424"
+         x="126.38737"
+         y="164.85382"
          id="text2085"><tspan
            sodipodi:role="line"
            id="tspan2083"
-           x="121.88192"
-           y="164.33424"
+           x="126.38737"
+           y="164.85382"
            style="stroke-width:0.221432">thin wrapper</tspan></text>
       <text
          id="text2089"
-         y="176.96289"
+         y="177.82405"
          x="158.48538"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.54291px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.221432"
          xml:space="preserve"><tspan
            style="stroke-width:0.221432"
-           y="176.96289"
+           y="177.82405"
            x="158.48538"
            id="tspan2087"
            sodipodi:role="line">fully featured</tspan></text>
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2122)"
-         d="m 133.86427,203.95651 16.14075,-12.46116"
+         d="m 132.11266,198.76998 17.89236,-7.27463"
          id="path2091"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.54291px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.221432"
-         x="118.03858"
-         y="190.87874"
+         x="117.07429"
+         y="187.13293"
          id="text2198"><tspan
            sodipodi:role="line"
            id="tspan2196"
-           x="118.03858"
-           y="190.87874"
+           x="117.07429"
+           y="187.13293"
            style="stroke-width:0.221432">plotting in</tspan><tspan
            sodipodi:role="line"
-           x="118.03858"
-           y="194.77594"
+           x="117.07429"
+           y="191.03014"
            style="stroke-width:0.221432"
            id="tspan2200">Matplotlib</tspan></text>
       <path
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2245)"
-         d="m 140.45266,215.43328 11.42325,-23.4702"
+         d="m 136.16483,210.66577 15.71108,-18.70269"
          id="path2202"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <text
          id="text2977"
-         y="209.69243"
-         x="155.68338"
+         y="204.67514"
+         x="155.1055"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.54291px;line-height:1.1;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.221432"
          xml:space="preserve"><tspan
            style="stroke-width:0.221432"
-           y="209.69243"
-           x="155.68338"
+           y="204.67514"
+           x="155.1055"
            id="tspan2973"
            sodipodi:role="line">plotting in</tspan><tspan
            id="tspan2975"
            style="stroke-width:0.221432"
-           y="213.58963"
-           x="155.68338"
+           y="208.57234"
+           x="155.1055"
            sodipodi:role="line">terminal</tspan></text>
     </g>
     <path
@@ -3252,7 +3252,7 @@
     </g>
     <g
        id="g9398"
-       transform="matrix(0.76752361,0,0,0.76752361,277.74609,92.485677)">
+       transform="matrix(0.76752361,0,0,0.76752361,277.74609,103.45468)">
       <g
          id="g13432"
          transform="matrix(1.2042749,0,0,1.2042749,-238.75931,-69.395795)">
@@ -3825,7 +3825,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="857.28601"
          y="293.18124"
-         id="tspan46182">a major interface change.</tspan></text>
+         id="tspan46182">a package with a different interface has used that name.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:0;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
@@ -3851,22 +3851,22 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="857.28601"
          y="351.38934"
-         id="tspan52870">“awkward1” during a transition period,</tspan><tspan
+         id="tspan52870">“awkward1” during a transition period, so</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="857.28601"
          y="364.61847"
-         id="tspan52872">so they could both be imported in the same</tspan><tspan
+         id="tspan52872">they could both be imported in the same</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="857.28601"
          y="377.8476"
-         id="tspan57034">Python session. However, other libraries</tspan><tspan
+         id="tspan57034">session. However, third-party libraries</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="857.28601"
          y="391.07672"
-         id="tspan57038">     became dependencies of name/version</tspan><tspan
+         id="tspan57038">     were dependencies of name/version</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="857.28601"
@@ -3925,7 +3925,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="548.93774"
          y="222.86803"
-         id="tspan114162">Histogram packages are easy to start,</tspan><tspan
+         id="tspan114162">Histogram packages are easy to create,</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="548.93774"
@@ -3951,17 +3951,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="549.0224"
          y="281.07608"
-         id="tspan114282">Several projects started in the Scikit-HEP</tspan><tspan
+         id="tspan117875">Several histogram packages <tspan
+   style="font-style:italic"
+   id="tspan321606">converged</tspan> in the</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="549.0224"
          y="294.30521"
-         id="tspan117875">      ecosystem: boost-histogram could fill quickly</tspan><tspan
+         id="tspan321604">    Scikit-HEP ecosystem: boost-histogram can fill quickly</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="549.0224"
          y="307.53433"
-         id="tspan117877">           but could not plot; mplhep concentrated on plotting.</tspan><tspan
+         id="tspan117877">           but has no plotting capabilities; mplhep only plots.</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="549.0224"
@@ -3981,7 +3983,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="549.0224"
          y="360.45084"
-         id="tspan117885">                     into one package that</tspan><tspan
+         id="tspan117885">                     into a package that</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="549.0224"
@@ -4022,7 +4024,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="337.07022"
          y="268.9054"
-         id="tspan145295">Slack, and training events. Ask me</tspan><tspan
+         id="tspan145295">Slack, RootTalk, Launchpad… Ask me</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="337.07022"
@@ -4165,12 +4167,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="1002.2928"
          y="757.75964"
-         id="tspan286815">    • minor versions must be at least two</tspan><tspan
+         id="tspan286815">    • minor versions must be at least (but</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="1002.2928"
          y="770.98877"
-         id="tspan286817">            months apart.</tspan><tspan
+         id="tspan286817">            close to) two months apart.</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="1002.2928"
@@ -4195,7 +4197,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          x="1002.2928"
          y="837.1344"
-         id="tspan291631">                       with function arguments!</tspan></text>
+         id="tspan291631">                       with different names!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:0;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:justify;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
